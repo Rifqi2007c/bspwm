@@ -2,7 +2,7 @@
 # Animated wallpaper changer
 
 DISPLAY=:0
-WALLPAPERS="$HOME/wallpaper/"
+WALLPAPERS="$HOME/.config/bspwm/themes/bspwm_pac/wallpapers"
 ALIST=($(ls -w1 $WALLPAPERS))
 RANGE=${#ALIST[@]}
 let "number = $RANDOM"
