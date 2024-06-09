@@ -1,5 +1,5 @@
 cacheDir="$HOME/wallcache"
-wall_dir="$HOME/wallpaper"
+wall_dir="$HOME/.config/bspwm/themes/bspwm_pac/wallpapers"
 
 if [ ! -d "${cacheDir}" ]; then
 	mkdir -p "${cacheDir}"
