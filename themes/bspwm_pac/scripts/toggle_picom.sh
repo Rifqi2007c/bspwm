@@ -6,6 +6,6 @@ if pgrep -x "picom" >/dev/null; then
 
 else
 
-	$(picom -b --config ~/.config/bspwm/themes/bspwm_nord/picom/picom.conf)
+	$(picom -b --config ~/.config/bspwm/themes/bspwm_pac/picom/picom.conf)
 
 fi
