@@ -7,3 +7,4 @@ chmod +x ~/.config/bspwm/themes/bspwm_pac/scripts/wallselect.sh
 chmod +x ~/.config/bspwm/themes/bspwm_pac/scripts/notify-send.sh
 chmod +x ~/.config/bspwm/themes/bspwm_pac/scripts/toggle_picom.sh
 chmod +x ~/.config/bspwm/themes/bspwm_pac/scripts/launch_polybar.sh
+chmod +x ~/.config/bspwm/themes/bspwm_pac/scripts/screenshot.sh
