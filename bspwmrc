@@ -3,6 +3,7 @@
 sxhkd -c ~/.config/bspwm/themes/bspwm_pac/sxhkd/sxhkdrc &
 picom --config ~/.config/bspwm/themes/bspwm_pac/picom/picom.conf &
 xsetroot -cursor_name left_ptr &
+nm-applet
 ~/.fehbg &
 ~/.config/bspwm/themes/bspwm_pac/scripts/launch_polybar.sh &
 dunst -conf ~/.config/bspwm/themes/bspwm_pac/dunst/dunstrc &
