@@ -1,10 +1,10 @@
 # requirement
- - sudo pacman -S feh sxhkd network-manager-applet polybar dunst rofi pulseaudio pavucontrol imagemagick fish ranger nwg-look neovim firefox alacritty ttf-0xproto-nerd scrot libnotify
+ - sudo pacman -S feh sxhkd network-manager-applet polybar dunst rofi pulseaudio pavucontrol imagemagick fish ranger nwg-look neovim firefox alacritty ttf-0xproto-nerd scrot libnotify starship
  - yay -S cava picom-ftlabs-git ttf-0xproto vimix-cursors vimiv-icon-theme catppuccin-gtk-theme-macchiato
 
 # next step
- move or copy bspwm directory into .config directory
- - cp -r bspwm ~/.config
+ move or copy .config directory into your .config directory
+ - cp -r .config ~/.config
 
 # final step
 cd into .config/bspwm and run the chmod.sh scripts (note very important if you dont have any WM or DE yet)
