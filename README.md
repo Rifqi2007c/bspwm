@@ -12,3 +12,8 @@
 cd ~/.config/bspwm
 chmod +x bspwmrc
 ```
+ - then cd into scripts directory and do the same thing with all the scripts
+```
+cd ~/.config/bspwm/scripts
+chmod +x cava.sh notify-send.sh screenshot.sh volume.sh wallselect.sh launch_polybar.sh powermenu.sh toggle_picom.sh
+```
