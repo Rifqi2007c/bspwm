@@ -8,3 +8,9 @@
 
 # final step
 cd into ~/.config/bspwm and then chmod +x bspwmrc then go to {(test);}
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
