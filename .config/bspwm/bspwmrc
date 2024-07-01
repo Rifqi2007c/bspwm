@@ -7,7 +7,6 @@ feh --bg-fill --randomize ~/.config/bspwm/wallpapers &
 nm-applet &
 ~/.config/bspwm/scripts/launch_polybar.sh &
 dunst -conf ~/.config/bspwm/dunst/dunstrc &
-otd-daemon &
 
 firefox &
 alacritty &
