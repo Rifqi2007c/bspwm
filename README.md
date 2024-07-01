@@ -52,7 +52,7 @@ wal -i ~/.config/bspwm/wallpapers/wired.png -s
    - relax.jpg           = #81C8Be
    - waifu_pink.png      = #DF95A5
    - wired.png           = #8CAAEE
- - example for the burning_cherry.jpg
+ - example for burning_cherry.jpg
 ```
 {
     "wallpaper": "/home/rifqi/.config/bspwm/wallpapers/burning_cherry.jpeg",
