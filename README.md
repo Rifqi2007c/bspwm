@@ -10,6 +10,7 @@ yay -S cava picom-ftlabs-git ttf-0xproto ttf-nerd-fonts-symbols vimix-cursors te
 # next step
 clone this repo and then move or copy .config directory into your .config directory
 ```
+git clone https://github.com/Rifqi2007c/bspwm.git
 cd bspwm
 cp -r .config ~/.config
 ```
