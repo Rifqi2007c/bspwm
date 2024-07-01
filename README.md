@@ -46,7 +46,7 @@ wal -i ~/.config/bspwm/wallpapers/wired.png -s
    - waifu_pink.png      = #DF95A5
    - wired.png           = #8CAAEE
  - > for example for the burning_cherry.jpg
-   ```
+```
 {
     "wallpaper": "/home/rifqi/.config/bspwm/wallpapers/burning_cherry.jpeg",
     "alpha": "100",
@@ -74,4 +74,4 @@ wal -i ~/.config/bspwm/wallpapers/wired.png -s
         "color15": "#dfb3b8"
     }
 }
-   ```
+```
