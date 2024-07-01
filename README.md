@@ -10,6 +10,10 @@ yay -S cava picom-ftlabs-git ttf-0xproto ttf-nerd-fonts-symbols vimix-cursors te
 - extra
   - sttt https://github.com/flick0/sttt
   - lazyvim http://www.lazyvim.org/
+  - spotify (media player button only work with spotify but you can change that ofcourse)
+```
+yay -S spotify
+```
 # next step
 clone this repo and then move or copy .config directory into your .config directory
 ```
