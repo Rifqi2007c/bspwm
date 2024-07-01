@@ -17,4 +17,4 @@ chmod +x bspwmrc
 cd ~/.config/bspwm/scripts
 chmod +x cava.sh notify-send.sh screenshot.sh volume.sh wallselect.sh launch_polybar.sh powermenu.sh toggle_picom.sh
 ```
-and then you can start use bspwm
+and then you can start using bspwm
