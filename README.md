@@ -7,10 +7,8 @@
  - cp -r .config ~/.config
 
 # final step
-cd into ~/.config/bspwm and then chmod +x bspwmrc then go to {(test);}
-
+ - cd into ~/.config/bspwm and then chmod +x bspwmrc
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+cd ~/.config/bspwm
+chmod +x bspwmrc
 ```
