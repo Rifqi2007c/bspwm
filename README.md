@@ -33,7 +33,8 @@ cd ~/.config/bspwm/scripts
 chmod +x cava.sh notify-send.sh screenshot.sh volume.sh wallselect.sh launch_polybar.sh powermenu.sh toggle_picom.sh
 ```
 and then you can start using bspwm
-
+### note
+this config use fish shell so you might want to change your default shell
 # pywal
 pywal will not work out of the box so here a way to make it work
  - generate all the wallpaper color for pywal
