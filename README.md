@@ -1,12 +1,15 @@
 # requirement
 - package installer
 ```
-sudo pacman -S feh sxhkd network-manager-applet polybar dunst rofi pulseaudio pavucontrol imagemagick fish ranger nwg-look neovim firefox alacritty ttf-0xproto-nerd scrot libnotify starship
+sudo pacman -S xclip feh sxhkd network-manager-applet polybar dunst rofi pulseaudio pavucontrol imagemagick fish ranger nwg-look neovim firefox alacritty ttf-0xproto-nerd scrot libnotify starship
 ```
 - AUR helper
 ```
 yay -S cava picom-ftlabs-git ttf-0xproto ttf-nerd-fonts-symbols vimix-cursors tela-circle-icon-theme-dracula catppuccin-gtk-theme-macchiato
 ```
+- extra
+  - sttt https://github.com/flick0/sttt
+  - lazyvim http://www.lazyvim.org/
 # next step
 clone this repo and then move or copy .config directory into your .config directory
 ```
