@@ -7,5 +7,4 @@
  - cp -r .config ~/.config
 
 # final step
-cd into .config/bspwm and run the chmod.sh scripts (note very important if you dont have any WM or DE yet)
-if you happend to not run chmod.sh before starting your log in manager you can try press F5 and a terminal will come out (if F5 didn't work then try all the Fx keys
+cd into ~/.config/bspwm and then chmod +x bspwmrc then go to {(test);}
