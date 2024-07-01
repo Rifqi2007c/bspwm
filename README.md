@@ -5,7 +5,7 @@ sudo pacman -S feh sxhkd network-manager-applet polybar dunst rofi pulseaudio pa
 ```
 AUR helper
 ```
-yay -S cava picom-ftlabs-git ttf-0xproto ttf-nerd-fonts-symbols vimix-cursors vimiv-icon-theme catppuccin-gtk-theme-macchiato
+yay -S cava picom-ftlabs-git ttf-0xproto ttf-nerd-fonts-symbols vimix-cursors tela-circle-icon-theme-dracula catppuccin-gtk-theme-macchiato
 ```
 # next step
  move or copy .config directory into your .config directory
