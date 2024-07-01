@@ -26,3 +26,15 @@ cd ~/.config/bspwm/scripts
 chmod +x cava.sh notify-send.sh screenshot.sh volume.sh wallselect.sh launch_polybar.sh powermenu.sh toggle_picom.sh
 ```
 and then you can start using bspwm
+
+# pywal
+pywal will not work out of the box so here a way to make it work
+ - generate all the wallpaper color for pywal
+```
+wal -i ~/.config/bspwm/wallpapers/burning_cherry.jpeg -s
+wal -i ~/.config/bspwm/wallpapers/camera.jpg -s
+wal -i ~/.config/bspwm/wallpapers/phony.jpg -s
+wal -i ~/.config/bspwm/wallpapers/relax.jpg -s
+wal -i ~/.config/bspwm/wallpapers/waifu_pink.png -s
+wal -i ~/.config/bspwm/wallpapers/wired.png -s
+```
