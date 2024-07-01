@@ -8,9 +8,12 @@ sudo pacman -S feh sxhkd network-manager-applet polybar dunst rofi pulseaudio pa
 yay -S cava picom-ftlabs-git ttf-0xproto ttf-nerd-fonts-symbols vimix-cursors tela-circle-icon-theme-dracula catppuccin-gtk-theme-macchiato
 ```
 # next step
- move or copy .config directory into your .config directory
- - cp -r .config ~/.config
-
+ move or copy .config and other app directory into your .config directory
+```
+cd bspwm
+cp -r .config ~/.config
+cp -r 
+```
 # final step
  - cd into ~/.config/bspwm and then chmod +x bspwmrc
 ```
