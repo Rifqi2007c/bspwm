@@ -38,3 +38,14 @@ wal -i ~/.config/bspwm/wallpapers/relax.jpg -s
 wal -i ~/.config/bspwm/wallpapers/waifu_pink.png -s
 wal -i ~/.config/bspwm/wallpapers/wired.png -s
 ```
+ - cd into .cache/wall/schemes/ and edit all the color config. change "color0" with the these color...
+   - burning cherry.jpeg = #E78284
+   - camera.jpg          = #E4C890
+   - phony.jpg           = #bb9af7
+   - relax.jpg           = #81C8Be
+   - waifu_pink.png      = #DF95A5
+   - wired.png           = #8CAAEE
+ - > for example for the burning cherry
+   ```
+
+   ```
