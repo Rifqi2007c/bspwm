@@ -10,7 +10,7 @@ yay -S cava picom-ftlabs-git ttf-0xproto ttf-nerd-fonts-symbols vimix-cursors te
 - extra
   - sttt https://github.com/flick0/sttt
   - lazyvim http://www.lazyvim.org/
-  - spotify (media player button only work with spotify but you can change that ofcourse)
+  - spotify (media player button inside polybar only work with spotify but you can change that ofcourse)
 ```
 yay -S spotify
 ```
